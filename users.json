@@ -1,0 +1,20 @@
+[
+  {
+    "userId": -8665934100455969325,
+    "firstName": "John",
+    "lastName": "Doe",
+    "upcomingConcerts": []
+  },
+  {
+    "userId": 4539652630356071334,
+    "firstName": "Don",
+    "lastName": "Smith",
+    "upcomingConcerts": []
+  },
+  {
+    "userId": 5779192887304921027,
+    "firstName": "Jane",
+    "lastName": "Adams",
+    "upcomingConcerts": []
+  }
+]
